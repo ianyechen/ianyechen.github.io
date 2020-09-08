@@ -2471,32 +2471,32 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #368dfe;
+  border-color: #368dfe;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color: #1c62be;
+  border-color: #1c62be;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
-  box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
+  background-color: #1c62be;
+  border-color: #1c62be;
+  box-shadow: 0 0 0 0.2rem #1c62bed3;
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #1c62be;
+  border-color: #1c62be;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #fec503;
-  border-color: #f3bd01;
+  background-color: #1c62be;
+  border-color: #1c62be;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
+  box-shadow: 0 0 0 0.2rem #1c62bed3;
 }
 
 .btn-secondary {
@@ -9797,7 +9797,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #368dfe !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10097,7 +10097,7 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #56a2f8;
 }
 
 @media (min-width: 992px) {
@@ -10195,7 +10195,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(254, 209, 54, 0.9);
+  background: #368dfe;
   align-items: center;
   justify-content: center;
   opacity: 0;
@@ -10321,7 +10321,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #368dfe;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
