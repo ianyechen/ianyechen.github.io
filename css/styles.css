@@ -10028,12 +10028,12 @@ p {
   }
 }
 ::-moz-selection {
-  background: #fed136;
+  background: #aad9ff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #aad9ff;
   text-shadow: none;
 }
 
